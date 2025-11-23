@@ -1,3 +1,2 @@
-# VS-code learning code
-testing visual studio code on linux,
-just testing code for beginers in vs code in C#
+# VS-code csharp or C# basic code
+Just some testing code for C# comunity, updating every month.
